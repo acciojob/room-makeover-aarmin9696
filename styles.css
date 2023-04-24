@@ -1,5 +1,9 @@
 
 /* Your CSS Code here. */
-.favourite-color{
+.favorite-color{
 	background-color: greenyellow;
+	
+}
+*{
+	font-weight: bold;
 }
